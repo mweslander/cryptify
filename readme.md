@@ -2,7 +2,7 @@
 A simple node CLI for encrypting and decrypting files with a secret.
 
 ## Why?
-I needed an easy way to share a file of secrets.
+I needed an easy way to share a sensitive file.
 
 ## Installation
 * Clone Repo `git clone git@github.com:mweslander/cryptify.git`
@@ -18,7 +18,7 @@ I needed an easy way to share a file of secrets.
 ## IRL
 As long as you and your buddy have cryptify installed, you could:
 
-1. cryptify your sensitive file with a secret
-2. send the encrypted zip file in an email
-3. tell your secret to your buddy
-4. bam. they have the sensitive file
+1. Cryptify your sensitive file with a secret
+2. Send the encrypted zip file in an email
+3. Tell your secret to your buddy
+4. Bam. They have the sensitive file contents.
