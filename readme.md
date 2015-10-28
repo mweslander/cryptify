@@ -17,6 +17,7 @@ I needed an easy way to share a file of secrets.
 
 ## IRL
 As long as you and your buddy have cryptify installed, you could:
+
 1. cryptify your sensitive file with a secret
 2. send the encrypted zip file in an email
 3. tell your secret to your buddy
